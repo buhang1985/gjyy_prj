@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd11f345-0c7f-4d1e-9cbc-7d813f4f50d6" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/pombak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/controller/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/controller/ChatController_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/controller/GjyyAiApiCallRecordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/model/GjyyAiApiCallRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/repository/GjyyAiApiCallRecordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/AiModelService_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/GjyyAiApiCallRecordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/OpenAIService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/vo/ChatRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/vo/DialogueMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/resources/static/index_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/resources/static/index_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai/src/main/resources/static/js/highlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ai/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/OpenAiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/OpenAiConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/ctrl/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/AiModelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/AiModelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/OpenAiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ai/src/main/java/com/gjyy/ai/service/OpenAiService_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ai/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ai/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/src/main/resources/static/js/highlight.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ai/src/main/resources/static/js/highlight.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ai" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "buhang1985"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/buhang1985/gjyy_prj.git",
+    "accountId": "f2dc6f44-48b0-4dd4-b642-fb58504a23d7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vTF8DNjciEp0Ncne1P6Wyy7v5G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.ai [clean].executor": "Run",
+    "Maven.ai [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ai_workspace/gjyy_prj",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="dd11f345-0c7f-4d1e-9cbc-7d813f4f50d6" name="更改" comment="" />
+      <created>1744160996083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744160996083</updated>
+      <workItem from="1744160998467" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
